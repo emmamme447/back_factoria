@@ -12,11 +12,29 @@ On this website there will be two possible accesses, one for HR who will have ac
   <li>Symfony 5.0 or higher</li>
   <li>MySQL 5.7 or higher</li>
   </br>
-  <span><img height="30" src="https://img.shields.io/badge/-HTML5-orange?style=flat-square"></span>
-  <span><img height="30" src="https://img.shields.io/badge/-PHP%207.4-blueviolet?style=flat-square"></span>
-  <span><img height="30" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square"></span>
-<span><img height="30" src="https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony"></span>
-<span><img height="30" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql"></span>
+  
+
+<span style="border-radius: 30px; background-color: #E34F26; padding: 5px;">
+    <img height="30" src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white"/>
+</span>
+<span style="border-radius: 3px; background-color: #777BB4; padding: 5px;">
+    <img height="30" src="https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white"/>
+</span>
+<span style="border-radius: 3px; background-color: #4479A1; padding: 5px;">
+    <img height="30" src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white"/>
+</span>
+<span style="border-radius: 3px; background-color: #000000; padding: 5px;">
+    <img height="30" src="https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony&logoColor=white"/>
+</span>
+<span style="border-radius: 3px; background-color: #61DAFB; padding: 5px;">
+    <img height="30" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+</span>
+<span style="border-radius: 3px; background-color: #F7DF1E; padding: 5px;">
+    <img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+</span>
+
+
+
 
 
 
